@@ -24,3 +24,5 @@ from .RequestUpload import RequestUpload
 from .TransferData import TransferData
 from .RequestTransferExit import RequestTransferExit
 from .RequestFileTransfer import RequestFileTransfer
+from .Authentication import Authentication
+
